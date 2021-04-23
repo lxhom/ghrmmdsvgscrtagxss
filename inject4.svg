@@ -7,7 +7,7 @@
 	  			<style>
 	  				h1 {background: url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;}
 	  			</style>
-	  			<h1>HTML Injection for phishing</h1>
+	  			<h1>HTML</h1>
           <a href="https://google.com">Test</a>
 				<script>
 					alert("hi lol")
